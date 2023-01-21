@@ -1,0 +1,16 @@
+.todo-list-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.button {
+    text-decoration: none;
+    text-align: center;
+    font-family: sans-serif;
+    color: rgb(255, 233, 160);
+    background-color: darkslateblue;
+    padding: 10px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    border-radius: 10px;
+}
